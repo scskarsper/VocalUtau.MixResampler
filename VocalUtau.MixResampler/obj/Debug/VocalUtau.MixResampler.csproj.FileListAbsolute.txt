@@ -1,0 +1,7 @@
+D:\VocalUtau\IncludeLib\VocalUtau.MixResampler\VocalUtau.MixResampler\VocalUtau.MixResampler\bin\Debug\VocalUtau.MixResampler.exe.config
+D:\VocalUtau\IncludeLib\VocalUtau.MixResampler\VocalUtau.MixResampler\bin\Debug\VocalUtau.MixResampler.exe.config
+D:\VocalUtau\IncludeLib\VocalUtau.MixResampler\VocalUtau.MixResampler\bin\Debug\VocalUtau.MixResampler.exe
+D:\VocalUtau\IncludeLib\VocalUtau.MixResampler\VocalUtau.MixResampler\bin\Debug\VocalUtau.MixResampler.pdb
+D:\VocalUtau\IncludeLib\VocalUtau.MixResampler\VocalUtau.MixResampler\obj\Debug\VocalUtau.MixResampler.csprojResolveAssemblyReference.cache
+D:\VocalUtau\IncludeLib\VocalUtau.MixResampler\VocalUtau.MixResampler\obj\Debug\VocalUtau.MixResampler.exe
+D:\VocalUtau\IncludeLib\VocalUtau.MixResampler\VocalUtau.MixResampler\obj\Debug\VocalUtau.MixResampler.pdb
